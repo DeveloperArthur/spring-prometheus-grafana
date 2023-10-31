@@ -1,0 +1,17 @@
+{
+	"ulid": "01HE35SGY292DA22X5CRH40WJZ",
+	"minTime": 1698755507822,
+	"maxTime": 1698760800000,
+	"stats": {
+		"numSamples": 228969,
+		"numSeries": 659,
+		"numChunks": 1318
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01HE35SGY292DA22X5CRH40WJZ"
+		]
+	},
+	"version": 1
+}
