@@ -43,7 +43,7 @@ Relata o status de componentes, como banco de dados, cache e outros, como "UP" o
 O Spring Boot Actuator fornece informações detalhadas sobre o estado do aplicativo de forma 
 automática e sem configuração extensa, graças à sua capacidade de autoconfiguração e detecção 
 de bibliotecas no classpath. Ele ativa automaticamente endpoints, como `/actuator/metrics` e 
-_/actuator/health_, com base nas bibliotecas presentes no projeto, permitindo que você acesse 
+`/actuator/health`, com base nas bibliotecas presentes no projeto, permitindo que você acesse 
 métricas de desempenho e informações de saúde sem a necessidade de configuração manual. 
 Isso simplifica o monitoramento e o gerenciamento de aplicativos Spring Boot.
 
