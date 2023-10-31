@@ -10,6 +10,8 @@ Resumo:
 - Alertmanager: quando os alertas configurados no Prometheus forem acionados, 
 o Prometheus irá envia o alerta para o alertmanager
 
+Vídeo resumo da solução + Alertmanager enviando alerta para o Slack: https://www.linkedin.com/feed/update/urn:li:activity:7125235465565126656/
+
 ## Spring Boot Actuator
 
 Nesse projeto utilizamos o Spring Boot Actuator, que é um módulo que fornece recursos 
